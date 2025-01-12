@@ -2,11 +2,10 @@
 
 I've been passionate about software development and machine learning for more than 20 years.
 
-In general, I enjoy many aspects of programming languages, constantly learning new things, participating in exciting projects, and contributing to software and data-related tasks. My primary focus areas include data engineering, AI engineerign, platform engineering, cloud computing, knowledge graphs, distibuted computing and solution architecture.
+In general, I enjoy many aspects of programming languages, constantly learning new things and contributing to software/AI/Data related tasks. My primary focus areas include software engineering, data engineering, AI engineerign, platform engineering and distibuted computing.
 
 - 💬 Feel free to ask me anything about the above-mentioned areas.
-- 🔭 I’m currently working on couple of tools to steamline Data/AI integrations
-- ⚡ Fun fact: I used to play basketball and was the captain of my high school team. I also love hiking and have climbed several notable peaks.
+- 🔭 I’m currently working on couple of softwares to steamline Data/AI integrations
 - 📫 Linkedin:www.linkedin.com/in/alishamsaddinlou
 
 <!--
