@@ -1,6 +1,6 @@
 ## Hi, my name is Ali👋
 
-I've been passionate about software development and machine learning for more than 20 years.
+I've been passionate about software, AI, data for more than 20 years.
 
 In general, I enjoy many aspects of programming languages, constantly learning new things and contributing to software/AI/Data related tasks. My primary focus areas include software engineering, data engineering, AI engineerign, platform engineering and distibuted computing.
 
